@@ -1,0 +1,15 @@
+- Ruby 
+  - Ruby on Rails
+- PHP
+  - WordPress
+  - FuelPHP
+- JavaScript, TypeScript
+  - Vue
+  - React
+- MySQL, Postgres
+- Docker
+- AWS 
+  - ECS
+  - RDS
+  - CloudFormation
+  - etc...
