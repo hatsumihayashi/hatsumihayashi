@@ -5,7 +5,7 @@ on:
     - cron: "0 19 * * 6"
   workflow_dispatch:
 jobs:
-  github-profile-card:
+  github-profile-card-actions:
     name: update profile-card
     runs-on: ubuntu-latest
     steps:
