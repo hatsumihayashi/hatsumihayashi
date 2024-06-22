@@ -7,7 +7,7 @@
 - JavaScript, TypeScript
   - Vue
   - React
-   - Next.js (App Router)
+    - Next.js (App Router)
 - MySQL, Postgres
 - Docker
 - AWS
