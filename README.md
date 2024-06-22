@@ -1,3 +1,4 @@
+- Go
 - Ruby 
   - Ruby on Rails
 - PHP
@@ -6,13 +7,11 @@
 - JavaScript, TypeScript
   - Vue
   - React
+   - Next.js (App Router)
 - MySQL, Postgres
 - Docker
-- AWS 
-  - ECS
-  - RDS
-  - CloudFormation
-  - etc...
+- AWS
+- GCP
 
 ---
 [![](https://raw.githubusercontent.com/hatsumihayashi/hatsumihayashi/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
